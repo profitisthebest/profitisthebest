@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @profitisthebest
-- 👀 I’m interested in Deep Learning and Computer Vision.
-- 🌱 I’m currently learning about image enhancement algorithms.
-- 💞️ I’m looking to collaborate on computer vision projects.
+- 👀 I’m interested in comp sci
+- 🌱 I’m currently learning comp sci
+- 💞️ I’m looking
 - 📫 How to reach me: @profit989_ on instagram
 
 <!---
