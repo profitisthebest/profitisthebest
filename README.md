@@ -2,7 +2,7 @@
 - 👀 I’m interested in comp sci
 - 🌱 I’m currently learning comp sci
 - 💞️ I’m looking
-- 📫 How to reach me: @profitjcs on instagram
+- 📫 How to reach me: 951-977-6329
 
 <!---
 profitisthebest/profitisthebest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
