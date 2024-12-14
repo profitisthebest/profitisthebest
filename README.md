@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @profitisthebest
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning about Real Analysis
-- 💞️ I’m looking for an internship!
+- 🌱 I’m currently learning about math
+- 💞️ I’m looking for an role!
 - 📫 How to reach me: 951-977-6329
 
 <!---
