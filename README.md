@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @profitisthebest
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning about math
-- 💞️ I’m looking for an role!
+- 👀 I’m learning about Database Design Principles!
+- Currently interning at Amazon Web Services :)
 - 📫 How to reach me: 951-977-6329
 
 <!---
