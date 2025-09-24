@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @profitisthebest
-- 👀 I’m learning about Database Design Principles!
-- Currently interning at Amazon Web Services :)
+- 👋 Hi, I’m James
+- - Currently interning at Amazon Web Services :)
 - 📫 How to reach me: 951-977-6329
 
 <!---
